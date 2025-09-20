@@ -1,6 +1,6 @@
 # 🗺️ Astraea Maps
 
-**Astraea Maps** es una aplicación móvil desarrollada en Flutter que permite a los usuarios interactuar con un mapa de Google Maps, añadir marcadores personalizados, buscar ubicaciones por nombre y cambiar el tipo de mapa en tiempo real. Diseñada como parte de un proceso autodidacta, esta app combina funcionalidad práctica con aprendizaje técnico profundo.
+**Astraea Maps** is a mobile application developed in Flutter that allows users to interact with a Google Maps map, add custom markers, search for locations by name, and change the map type in real time. Designed as part of a self-taught process, this app combines practical functionality with deep technical learning.
 
 ---
 
@@ -9,22 +9,21 @@
 
 
 
-## 🌟 Características
-
-- 📍 Añadir marcadores tocando cualquier punto del mapa.
-- 🔍 Buscar lugares por nombre y posicionar automáticamente el mapa.
-- 🎛️ Cambiar el tipo de mapa: normal, satélite, terreno e híbrido.
-- 🧠 Lógica construida desde cero por un desarrollador autodidacta.
+## 🌟 Features- 📍 
+Add markers by tapping any point on the map.- 🔍 
+Search for places by name and automatically position the map.- 🎛️ 
+Change the type of map: normal, satellite, terrain, and hybrid.- 
+🧠 Logic built from scratch by a self-taught developer.
 
 ---
 
-## 🧪 Tecnologías utilizadas
+## 🧪 Technologies used
 
 - Flutter + Dart
-- Google Maps 
-- geocoding (para búsqueda de lugares)
+- Google Maps
+- Geocoding (for location search)
 - VS Code
 - Git + GitHub
 
 ---
-⚠️ Este proyecto usa una clave de API local para Google Maps. No se incluye en el repositorio por seguridad.
+⚠️ This project uses a local API key for Google Maps. It is not included in the repository for security reasons.
